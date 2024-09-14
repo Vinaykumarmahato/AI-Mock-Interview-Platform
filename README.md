@@ -4,6 +4,8 @@ Welcome to the **AI Mock Interview** platform repository! This project aims to r
 
 ---
 
+Check The Project Activity: [Click Here](https://ai-interview-mocker.vercel.app/)
+
 ## 🚀 **Project Overview** 
 - 🤖 **Project Name**: AI Mock Interview
 - 🎓 **Developers**: Rohit Kumar and Vinay Kumar, IT Department Final Year Students, DSCET
