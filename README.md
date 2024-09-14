@@ -71,5 +71,5 @@ We welcome contributions! Please follow these steps:
 ---
 
 ## 📞 **Contact Information**
-- Vinay Kumar – [LinkedIn](https://www.linkedin.com/in/vinaykumar)
-- Rohit Kumar – [LinkedIn](https://www.linkedin.com/in/rohitkumar)
+- Vinay Kumar – [LinkedIn](https://www.linkedin.com/in/vinay-kumar860964/)
+- Rohit Kumar – [LinkedIn](https://www.linkedin.com/in/rohit21oc/)
