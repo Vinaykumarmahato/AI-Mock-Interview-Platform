@@ -43,7 +43,7 @@ Welcome to the **AI Mock Interview** platform repository! This project aims to r
 ## 🔧 **How to Run This Project**
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/YourRepoName/ai-mock-interview.git
+    git clone git@github.com:Vinaykumarmahato/AI-Mock-Interview-Platform.git
     ```
 
 2. **Install Dependencies**:
